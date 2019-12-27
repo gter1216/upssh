@@ -1,9 +1,9 @@
 # UPSSH
 
-UPSSH is a very lightly simulated implementation of the openSSH protocol tool for remote login.
+UPSSH is a very lightly simulated implementation of the openSSH tool for remote login.
 
 
-The advantage is UPSSH:
+The advantages of UPSSH are:
 
 1. lightly, because UPSSH do not use secured method to protect the data.
    The overall line count not exceeds 2000.
